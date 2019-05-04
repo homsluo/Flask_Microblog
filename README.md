@@ -25,3 +25,8 @@ Then you may need these packages to run the flask app.
 (venv) $ pip install flask-moment
 (venv) $ pip install dateutil
 ```
+## Run Flask App
+You may run the app at the top directory
+```python
+flask run
+```
