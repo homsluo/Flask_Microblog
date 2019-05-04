@@ -8,5 +8,6 @@ To active your virtual environment
 Then you may need these packages to run the flask app.
 ## Packages:
 ```python
-pip install flask
+(venv) $ pip install flask
+(venv) $ pip install python-dotenv
 ```
