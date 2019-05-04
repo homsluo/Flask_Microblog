@@ -1,15 +1,15 @@
 # Flask_Microblog
 I've used Flask to develop the microblog website at the localhost  
 You may experience these function on the microblog website:  
->>1.Register: Register as a new user.  
+1.Register: Register as a new user.  
 
->>2.Reset Password: You may use the email send to you to reset your password.  
+2.Reset Password: You may use the email send to you to reset your password.  
 
->>3.Profile: You can introduce yourself and see your last login time; You can see how many people following you and you followed.   
+3.Profile: You can introduce yourself and see your last login time; You can see how many people following you and you followed.   
 
->>4.Home & Explore: You can see all your posts and make a new post at your Home; You can see all users' posts at Explore.  
+4.Home & Explore: You can see all your posts and make a new post at your Home; You can see all users' posts at Explore.  
 
->>5.Follow & Unfollow: You can follow or unfollow any other user.  
+5.Follow & Unfollow: You can follow or unfollow any other user.  
 ## Virtual Environment
 You may `not` use the `venv` I upload, instead create your own `virtual environment`        
 ```$ python3 -m venv venv```              
