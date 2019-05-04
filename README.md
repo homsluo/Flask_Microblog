@@ -3,7 +3,7 @@ You may `not` use the `venv` I upload, instead create your own `virtual environm
 ```$ python3 -m venv venv```                    
 To active your virtual environment      
 ```$ source venv/bin/activate```        
-```(venv) $         
+```(venv) $```           
 Then you may need these packages to run the flask app.
 ## Packages:
 ```(venv) $ pip install flask```
