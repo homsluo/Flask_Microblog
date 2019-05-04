@@ -1,6 +1,7 @@
 # Flask_Microblog
 I've used Flask to develop the microblog website at the localhost  
 You may experience these function on the microblog website:  
+
 1.Register: Register as a new user.  
 
 2.Reset Password: You may use the email send to you to reset your password.  
