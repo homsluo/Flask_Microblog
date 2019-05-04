@@ -1,6 +1,6 @@
 # Flask_Microblog
 ====
-You may 'not' use the 'venv' I upload, instead create your own 'virtual environment'\<br>
+You may `not` use the `venv` I upload, instead create your own `virtual environment`\<br>
 ```$ python3 -m venv venv```\<br>
 To active your virtual environment
 ```$ source venv/bin/activate\<br>
