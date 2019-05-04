@@ -42,4 +42,6 @@ Then you may need these packages to run the flask app.
 You may run the app at the top directory
 ```
 (venv) $ flask run
-```
+```  
+You may see the web on  
+`localhost:5000/`
